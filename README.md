@@ -1,3 +1,3 @@
 # dotfiles
 My personal dotfiles for bspwm.
-[<img alt="bspwm img" src="https://imgur.com/a/uyLgEpe" />]
+<img alt="bspwm img" src="screenshot.png" />
